@@ -28,8 +28,8 @@ This application allows users to track real-time flight statuses for multiple fl
    If you obtained this as a Git repository, clone it to your local machine.
 
    ```bash
-   # git clone <repository_url>
-   # cd <repository_directory>
+   # git clone [<repository_url>](https://github.com/Lophate/personal_flight_tracker)
+   # cd FlightTracker
    ```
 
 2. **Create and Activate a Virtual Environment (Recommended):**
